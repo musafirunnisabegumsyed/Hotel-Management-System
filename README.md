@@ -27,6 +27,9 @@ A simple and interactive **Hotel Management System website** developed using **H
 ## 📂 Project Structure
 
 
+## 📂 Project Structure
+
+```text
 Hotel-Management-System/
 │
 ├── index.html       # Home page
@@ -37,6 +40,7 @@ Hotel-Management-System/
 ├── hotel.css        # Main stylesheet
 ├── hotel1.css       # Additional stylesheet
 └── README.md        # Project documentation
+```
 
 
 ## 📄 Pages
