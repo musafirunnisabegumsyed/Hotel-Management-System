@@ -37,7 +37,7 @@ Hotel-Management-System/
 ├── hotel.css        # Main stylesheet
 ├── hotel1.css       # Additional stylesheet
 └── README.md        # Project documentation
-```
+
 
 ## 📄 Pages
 
