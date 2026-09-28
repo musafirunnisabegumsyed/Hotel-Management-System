@@ -24,7 +24,7 @@ A simple and interactive **Hotel Management System website** developed using **H
 * **JavaScript** – Interactive functionality
 * **GitHub Pages** – Website deployment
 
-## 📂 Project Structure
+
 
 
 ## 📂 Project Structure
